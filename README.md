@@ -1,7 +1,7 @@
 # Loop_1
 
 
-public class ReversalsTotalValidationTest {
+public class ReversalsTest {
     public static void main(String[] args) {
         // Setting system properties for ChromeDriver
         System.setProperty("webdriver.chrome.driver", "/path/to/your/chromedriver");
